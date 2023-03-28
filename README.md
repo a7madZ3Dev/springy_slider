@@ -22,6 +22,9 @@ A simple slider app.
 
 <img alt="GIF" src="preview/demo_1.gif" width= "300" />  
 
+### Design by Kishi Bashi: 
+https://dribbble.com/shots/3845034-Listening-now-Kishi-Bashi
+
 <br>
 
 ## 🧑 Author
